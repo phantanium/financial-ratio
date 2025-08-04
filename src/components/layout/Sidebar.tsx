@@ -27,7 +27,7 @@ export default function Sidebar() {
       <div className="p-4 border-b border-border">
         <div className="flex items-center gap-2">
           <FileBarChart className="w-6 h-6 text-primary" />
-          <span className="font-semibold text-foreground">IndonesiaFinance</span>
+          <span className="font-semibold text-foreground">Indon Finance</span>
         </div>
       </div>
       
