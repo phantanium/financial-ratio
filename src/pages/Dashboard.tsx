@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Menu } from "lucide-react";
+import { Menu, Home } from "lucide-react";
 import DashboardHeader from "@/components/dashboard/DashboardHeader";
 import DashboardSidebar from "@/components/dashboard/DashboardSidebar";
 import MetricCard from "@/components/dashboard/MetricCard";
@@ -103,13 +103,14 @@ export default function Dashboard() {
           <div className="max-w-7xl mx-auto space-y-6">
             {/* Header with toggle */}
             <div className="flex items-center justify-between">
-              <div>
-                <h2 className="text-2xl font-bold text-foreground capitalize">
-                  {activeCategory} Analysis
-                </h2>
-                <p className="text-muted-foreground">
-                  Financial performance metrics and trend analysis
-                </p>
+              <div className="flex items-center gap-3">
+                <Home className="w-8 h-8 text-primary" />
+                <div>
+                  <h1 className="text-3xl font-bold text-foreground">Financial Dashboard</h1>
+                  <p className="text-muted-foreground">
+                    Comprehensive financial performance overview
+                  </p>
+                </div>
               </div>
               
               <Button
