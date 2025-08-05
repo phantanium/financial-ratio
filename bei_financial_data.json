@@ -1,0 +1,3964 @@
+{
+    "BBCA.JK": {
+        "ticker": "BBCA.JK",
+        "name": "Bank Central Asia Tbk",
+        "sector": "Banking",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "loanToDepositRatio": 0
+            },
+            "profitability": {
+                "roe": 20.88,
+                "roa": 3.78,
+                "nim": 5.82
+            },
+            "leverage": {
+                "equityMultiplier": 5.52,
+                "debtToAssets": 0.82
+            },
+            "activity": {}
+        },
+        "trends": {
+            "liquidity_loanToDepositRatio": [
+                {
+                    "period": "2021",
+                    "value": 0
+                },
+                {
+                    "period": "2022",
+                    "value": 0
+                },
+                {
+                    "period": "2023",
+                    "value": 0
+                },
+                {
+                    "period": "2024",
+                    "value": 0
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 15.5
+                },
+                {
+                    "period": "2022",
+                    "value": 18.43
+                },
+                {
+                    "period": "2023",
+                    "value": 20.07
+                },
+                {
+                    "period": "2024",
+                    "value": 20.88
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 2.56
+                },
+                {
+                    "period": "2022",
+                    "value": 3.1
+                },
+                {
+                    "period": "2023",
+                    "value": 3.45
+                },
+                {
+                    "period": "2024",
+                    "value": 3.78
+                }
+            ],
+            "profitability_nim": [
+                {
+                    "period": "2021",
+                    "value": 4.71
+                },
+                {
+                    "period": "2022",
+                    "value": 5.0
+                },
+                {
+                    "period": "2023",
+                    "value": 5.47
+                },
+                {
+                    "period": "2024",
+                    "value": 5.82
+                }
+            ],
+            "leverage_equityMultiplier": [
+                {
+                    "period": "2021",
+                    "value": 6.06
+                },
+                {
+                    "period": "2022",
+                    "value": 5.95
+                },
+                {
+                    "period": "2023",
+                    "value": 5.81
+                },
+                {
+                    "period": "2024",
+                    "value": 5.52
+                }
+            ],
+            "leverage_debtToAssets": [
+                {
+                    "period": "2021",
+                    "value": 0.83
+                },
+                {
+                    "period": "2022",
+                    "value": 0.83
+                },
+                {
+                    "period": "2023",
+                    "value": 0.83
+                },
+                {
+                    "period": "2024",
+                    "value": 0.82
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 20.88,
+                    "roa": 3.78,
+                    "nim": 5.82
+                },
+                "leverage": {
+                    "equityMultiplier": 5.52,
+                    "debtToAssets": 0.82
+                },
+                "activity": {}
+            },
+            "2023": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 20.07,
+                    "roa": 3.45,
+                    "nim": 5.47
+                },
+                "leverage": {
+                    "equityMultiplier": 5.81,
+                    "debtToAssets": 0.83
+                },
+                "activity": {}
+            },
+            "2022": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 18.43,
+                    "roa": 3.1,
+                    "nim": 5.0
+                },
+                "leverage": {
+                    "equityMultiplier": 5.95,
+                    "debtToAssets": 0.83
+                },
+                "activity": {}
+            },
+            "2021": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 15.5,
+                    "roa": 2.56,
+                    "nim": 4.71
+                },
+                "leverage": {
+                    "equityMultiplier": 6.06,
+                    "debtToAssets": 0.83
+                },
+                "activity": {}
+            }
+        }
+    },
+    "BMRI.JK": {
+        "ticker": "BMRI.JK",
+        "name": "Bank Mandiri Tbk",
+        "sector": "Banking",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "loanToDepositRatio": 0
+            },
+            "profitability": {
+                "roe": 19.66,
+                "roa": 2.3,
+                "nim": 3.66
+            },
+            "leverage": {
+                "equityMultiplier": 8.55,
+                "debtToAssets": 0.87
+            },
+            "activity": {}
+        },
+        "trends": {
+            "liquidity_loanToDepositRatio": [
+                {
+                    "period": "2021",
+                    "value": 0
+                },
+                {
+                    "period": "2022",
+                    "value": 0
+                },
+                {
+                    "period": "2023",
+                    "value": 0
+                },
+                {
+                    "period": "2024",
+                    "value": 0
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 13.69
+                },
+                {
+                    "period": "2022",
+                    "value": 17.93
+                },
+                {
+                    "period": "2023",
+                    "value": 21.11
+                },
+                {
+                    "period": "2024",
+                    "value": 19.66
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 1.62
+                },
+                {
+                    "period": "2022",
+                    "value": 2.07
+                },
+                {
+                    "period": "2023",
+                    "value": 2.53
+                },
+                {
+                    "period": "2024",
+                    "value": 2.3
+                }
+            ],
+            "profitability_nim": [
+                {
+                    "period": "2021",
+                    "value": 3.66
+                },
+                {
+                    "period": "2022",
+                    "value": 3.83
+                },
+                {
+                    "period": "2023",
+                    "value": 3.85
+                },
+                {
+                    "period": "2024",
+                    "value": 3.66
+                }
+            ],
+            "leverage_equityMultiplier": [
+                {
+                    "period": "2021",
+                    "value": 8.43
+                },
+                {
+                    "period": "2022",
+                    "value": 8.68
+                },
+                {
+                    "period": "2023",
+                    "value": 8.34
+                },
+                {
+                    "period": "2024",
+                    "value": 8.55
+                }
+            ],
+            "leverage_debtToAssets": [
+                {
+                    "period": "2021",
+                    "value": 0.87
+                },
+                {
+                    "period": "2022",
+                    "value": 0.87
+                },
+                {
+                    "period": "2023",
+                    "value": 0.87
+                },
+                {
+                    "period": "2024",
+                    "value": 0.87
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 19.66,
+                    "roa": 2.3,
+                    "nim": 3.66
+                },
+                "leverage": {
+                    "equityMultiplier": 8.55,
+                    "debtToAssets": 0.87
+                },
+                "activity": {}
+            },
+            "2023": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 21.11,
+                    "roa": 2.53,
+                    "nim": 3.85
+                },
+                "leverage": {
+                    "equityMultiplier": 8.34,
+                    "debtToAssets": 0.87
+                },
+                "activity": {}
+            },
+            "2022": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 17.93,
+                    "roa": 2.07,
+                    "nim": 3.83
+                },
+                "leverage": {
+                    "equityMultiplier": 8.68,
+                    "debtToAssets": 0.87
+                },
+                "activity": {}
+            },
+            "2021": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 13.69,
+                    "roa": 1.62,
+                    "nim": 3.66
+                },
+                "leverage": {
+                    "equityMultiplier": 8.43,
+                    "debtToAssets": 0.87
+                },
+                "activity": {}
+            }
+        }
+    },
+    "BBRI.JK": {
+        "ticker": "BBRI.JK",
+        "name": "Bank Rakyat Indonesia Tbk",
+        "sector": "Banking",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "loanToDepositRatio": 0
+            },
+            "profitability": {
+                "roe": 18.97,
+                "roa": 3.02,
+                "nim": 6.48
+            },
+            "leverage": {
+                "equityMultiplier": 6.29,
+                "debtToAssets": 0.84
+            },
+            "activity": {}
+        },
+        "trends": {
+            "liquidity_loanToDepositRatio": [
+                {
+                    "period": "2021",
+                    "value": 0
+                },
+                {
+                    "period": "2022",
+                    "value": 0
+                },
+                {
+                    "period": "2023",
+                    "value": 0
+                },
+                {
+                    "period": "2024",
+                    "value": 0
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 10.76
+                },
+                {
+                    "period": "2022",
+                    "value": 17.1
+                },
+                {
+                    "period": "2023",
+                    "value": 19.3
+                },
+                {
+                    "period": "2024",
+                    "value": 18.97
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 1.85
+                },
+                {
+                    "period": "2022",
+                    "value": 2.74
+                },
+                {
+                    "period": "2023",
+                    "value": 3.06
+                },
+                {
+                    "period": "2024",
+                    "value": 3.02
+                }
+            ],
+            "profitability_nim": [
+                {
+                    "period": "2021",
+                    "value": 6.5
+                },
+                {
+                    "period": "2022",
+                    "value": 6.19
+                },
+                {
+                    "period": "2023",
+                    "value": 6.39
+                },
+                {
+                    "period": "2024",
+                    "value": 6.48
+                }
+            ],
+            "leverage_equityMultiplier": [
+                {
+                    "period": "2021",
+                    "value": 5.81
+                },
+                {
+                    "period": "2022",
+                    "value": 6.23
+                },
+                {
+                    "period": "2023",
+                    "value": 6.31
+                },
+                {
+                    "period": "2024",
+                    "value": 6.29
+                }
+            ],
+            "leverage_debtToAssets": [
+                {
+                    "period": "2021",
+                    "value": 0.83
+                },
+                {
+                    "period": "2022",
+                    "value": 0.84
+                },
+                {
+                    "period": "2023",
+                    "value": 0.84
+                },
+                {
+                    "period": "2024",
+                    "value": 0.84
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 18.97,
+                    "roa": 3.02,
+                    "nim": 6.48
+                },
+                "leverage": {
+                    "equityMultiplier": 6.29,
+                    "debtToAssets": 0.84
+                },
+                "activity": {}
+            },
+            "2023": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 19.3,
+                    "roa": 3.06,
+                    "nim": 6.39
+                },
+                "leverage": {
+                    "equityMultiplier": 6.31,
+                    "debtToAssets": 0.84
+                },
+                "activity": {}
+            },
+            "2022": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 17.1,
+                    "roa": 2.74,
+                    "nim": 6.19
+                },
+                "leverage": {
+                    "equityMultiplier": 6.23,
+                    "debtToAssets": 0.84
+                },
+                "activity": {}
+            },
+            "2021": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 10.76,
+                    "roa": 1.85,
+                    "nim": 6.5
+                },
+                "leverage": {
+                    "equityMultiplier": 5.81,
+                    "debtToAssets": 0.83
+                },
+                "activity": {}
+            }
+        }
+    },
+    "BBNI.JK": {
+        "ticker": "BBNI.JK",
+        "name": "Bank Negara Indonesia Tbk",
+        "sector": "Banking",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "loanToDepositRatio": 0
+            },
+            "profitability": {
+                "roe": 13.21,
+                "roa": 1.9,
+                "nim": 3.58
+            },
+            "leverage": {
+                "equityMultiplier": 6.95,
+                "debtToAssets": 0.85
+            },
+            "activity": {}
+        },
+        "trends": {
+            "liquidity_loanToDepositRatio": [
+                {
+                    "period": "2021",
+                    "value": 0
+                },
+                {
+                    "period": "2022",
+                    "value": 0
+                },
+                {
+                    "period": "2023",
+                    "value": 0
+                },
+                {
+                    "period": "2024",
+                    "value": 0
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 8.81
+                },
+                {
+                    "period": "2022",
+                    "value": 13.48
+                },
+                {
+                    "period": "2023",
+                    "value": 13.93
+                },
+                {
+                    "period": "2024",
+                    "value": 13.21
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 1.13
+                },
+                {
+                    "period": "2022",
+                    "value": 1.78
+                },
+                {
+                    "period": "2023",
+                    "value": 1.92
+                },
+                {
+                    "period": "2024",
+                    "value": 1.9
+                }
+            ],
+            "profitability_nim": [
+                {
+                    "period": "2021",
+                    "value": 3.94
+                },
+                {
+                    "period": "2022",
+                    "value": 4.01
+                },
+                {
+                    "period": "2023",
+                    "value": 3.8
+                },
+                {
+                    "period": "2024",
+                    "value": 3.58
+                }
+            ],
+            "leverage_equityMultiplier": [
+                {
+                    "period": "2021",
+                    "value": 7.8
+                },
+                {
+                    "period": "2022",
+                    "value": 7.58
+                },
+                {
+                    "period": "2023",
+                    "value": 7.24
+                },
+                {
+                    "period": "2024",
+                    "value": 6.95
+                }
+            ],
+            "leverage_debtToAssets": [
+                {
+                    "period": "2021",
+                    "value": 0.87
+                },
+                {
+                    "period": "2022",
+                    "value": 0.86
+                },
+                {
+                    "period": "2023",
+                    "value": 0.86
+                },
+                {
+                    "period": "2024",
+                    "value": 0.85
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 13.21,
+                    "roa": 1.9,
+                    "nim": 3.58
+                },
+                "leverage": {
+                    "equityMultiplier": 6.95,
+                    "debtToAssets": 0.85
+                },
+                "activity": {}
+            },
+            "2023": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 13.93,
+                    "roa": 1.92,
+                    "nim": 3.8
+                },
+                "leverage": {
+                    "equityMultiplier": 7.24,
+                    "debtToAssets": 0.86
+                },
+                "activity": {}
+            },
+            "2022": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 13.48,
+                    "roa": 1.78,
+                    "nim": 4.01
+                },
+                "leverage": {
+                    "equityMultiplier": 7.58,
+                    "debtToAssets": 0.86
+                },
+                "activity": {}
+            },
+            "2021": {
+                "liquidity": {
+                    "loanToDepositRatio": 0
+                },
+                "profitability": {
+                    "roe": 8.81,
+                    "roa": 1.13,
+                    "nim": 3.94
+                },
+                "leverage": {
+                    "equityMultiplier": 7.8,
+                    "debtToAssets": 0.87
+                },
+                "activity": {}
+            }
+        }
+    },
+    "TLKM.JK": {
+        "ticker": "TLKM.JK",
+        "name": "Telkom Indonesia Tbk",
+        "sector": "Telecommunications",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 0.82,
+                "quickRatio": 0.81,
+                "cashRatio": 0.44
+            },
+            "profitability": {
+                "roe": 16.64,
+                "roa": 7.89,
+                "npm": 15.74,
+                "gpm": 67.94
+            },
+            "leverage": {
+                "der": 0.97,
+                "dar": 0.46
+            },
+            "activity": {
+                "assetTurnover": 0.5
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.89
+                },
+                {
+                    "period": "2022",
+                    "value": 0.78
+                },
+                {
+                    "period": "2023",
+                    "value": 0.78
+                },
+                {
+                    "period": "2024",
+                    "value": 0.82
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.88
+                },
+                {
+                    "period": "2022",
+                    "value": 0.77
+                },
+                {
+                    "period": "2023",
+                    "value": 0.76
+                },
+                {
+                    "period": "2024",
+                    "value": 0.81
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.56
+                },
+                {
+                    "period": "2022",
+                    "value": 0.45
+                },
+                {
+                    "period": "2023",
+                    "value": 0.41
+                },
+                {
+                    "period": "2024",
+                    "value": 0.44
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 20.45
+                },
+                {
+                    "period": "2022",
+                    "value": 16.05
+                },
+                {
+                    "period": "2023",
+                    "value": 18.02
+                },
+                {
+                    "period": "2024",
+                    "value": 16.64
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 9.01
+                },
+                {
+                    "period": "2022",
+                    "value": 7.55
+                },
+                {
+                    "period": "2023",
+                    "value": 8.52
+                },
+                {
+                    "period": "2024",
+                    "value": 7.89
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 17.37
+                },
+                {
+                    "period": "2022",
+                    "value": 14.08
+                },
+                {
+                    "period": "2023",
+                    "value": 16.37
+                },
+                {
+                    "period": "2024",
+                    "value": 15.74
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 69.75
+                },
+                {
+                    "period": "2022",
+                    "value": 70.39
+                },
+                {
+                    "period": "2023",
+                    "value": 69.12
+                },
+                {
+                    "period": "2024",
+                    "value": 67.94
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 1.08
+                },
+                {
+                    "period": "2022",
+                    "value": 0.97
+                },
+                {
+                    "period": "2023",
+                    "value": 0.96
+                },
+                {
+                    "period": "2024",
+                    "value": 0.97
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.47
+                },
+                {
+                    "period": "2022",
+                    "value": 0.46
+                },
+                {
+                    "period": "2023",
+                    "value": 0.45
+                },
+                {
+                    "period": "2024",
+                    "value": 0.46
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.52
+                },
+                {
+                    "period": "2022",
+                    "value": 0.54
+                },
+                {
+                    "period": "2023",
+                    "value": 0.52
+                },
+                {
+                    "period": "2024",
+                    "value": 0.5
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 0.82,
+                    "quickRatio": 0.81,
+                    "cashRatio": 0.44
+                },
+                "profitability": {
+                    "roe": 16.64,
+                    "roa": 7.89,
+                    "npm": 15.74,
+                    "gpm": 67.94
+                },
+                "leverage": {
+                    "der": 0.97,
+                    "dar": 0.46
+                },
+                "activity": {
+                    "assetTurnover": 0.5
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 0.78,
+                    "quickRatio": 0.76,
+                    "cashRatio": 0.41
+                },
+                "profitability": {
+                    "roe": 18.02,
+                    "roa": 8.52,
+                    "npm": 16.37,
+                    "gpm": 69.12
+                },
+                "leverage": {
+                    "der": 0.96,
+                    "dar": 0.45
+                },
+                "activity": {
+                    "assetTurnover": 0.52
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 0.78,
+                    "quickRatio": 0.77,
+                    "cashRatio": 0.45
+                },
+                "profitability": {
+                    "roe": 16.05,
+                    "roa": 7.55,
+                    "npm": 14.08,
+                    "gpm": 70.39
+                },
+                "leverage": {
+                    "der": 0.97,
+                    "dar": 0.46
+                },
+                "activity": {
+                    "assetTurnover": 0.54
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 0.89,
+                    "quickRatio": 0.88,
+                    "cashRatio": 0.56
+                },
+                "profitability": {
+                    "roe": 20.45,
+                    "roa": 9.01,
+                    "npm": 17.37,
+                    "gpm": 69.75
+                },
+                "leverage": {
+                    "der": 1.08,
+                    "dar": 0.47
+                },
+                "activity": {
+                    "assetTurnover": 0.52
+                }
+            }
+        }
+    },
+    "UNVR.JK": {
+        "ticker": "UNVR.JK",
+        "name": "Unilever Indonesia Tbk",
+        "sector": "Consumer Goods",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 0.45,
+                "quickRatio": 0.23,
+                "cashRatio": 0.06
+            },
+            "profitability": {
+                "roe": 156.74,
+                "roa": 20.99,
+                "npm": 9.59,
+                "gpm": 47.58
+            },
+            "leverage": {
+                "der": 6.47,
+                "dar": 0.87
+            },
+            "activity": {
+                "assetTurnover": 2.19
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.61
+                },
+                {
+                    "period": "2022",
+                    "value": 0.61
+                },
+                {
+                    "period": "2023",
+                    "value": 0.55
+                },
+                {
+                    "period": "2024",
+                    "value": 0.45
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.42
+                },
+                {
+                    "period": "2022",
+                    "value": 0.4
+                },
+                {
+                    "period": "2023",
+                    "value": 0.34
+                },
+                {
+                    "period": "2024",
+                    "value": 0.23
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.03
+                },
+                {
+                    "period": "2022",
+                    "value": 0.04
+                },
+                {
+                    "period": "2023",
+                    "value": 0.09
+                },
+                {
+                    "period": "2024",
+                    "value": 0.06
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 133.25
+                },
+                {
+                    "period": "2022",
+                    "value": 134.21
+                },
+                {
+                    "period": "2023",
+                    "value": 141.99
+                },
+                {
+                    "period": "2024",
+                    "value": 156.74
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 30.2
+                },
+                {
+                    "period": "2022",
+                    "value": 29.29
+                },
+                {
+                    "period": "2023",
+                    "value": 28.81
+                },
+                {
+                    "period": "2024",
+                    "value": 20.99
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 14.56
+                },
+                {
+                    "period": "2022",
+                    "value": 13.02
+                },
+                {
+                    "period": "2023",
+                    "value": 12.43
+                },
+                {
+                    "period": "2024",
+                    "value": 9.59
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 49.63
+                },
+                {
+                    "period": "2022",
+                    "value": 46.25
+                },
+                {
+                    "period": "2023",
+                    "value": 49.71
+                },
+                {
+                    "period": "2024",
+                    "value": 47.58
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 3.41
+                },
+                {
+                    "period": "2022",
+                    "value": 3.58
+                },
+                {
+                    "period": "2023",
+                    "value": 3.93
+                },
+                {
+                    "period": "2024",
+                    "value": 6.47
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.77
+                },
+                {
+                    "period": "2022",
+                    "value": 0.78
+                },
+                {
+                    "period": "2023",
+                    "value": 0.8
+                },
+                {
+                    "period": "2024",
+                    "value": 0.87
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 2.07
+                },
+                {
+                    "period": "2022",
+                    "value": 2.25
+                },
+                {
+                    "period": "2023",
+                    "value": 2.32
+                },
+                {
+                    "period": "2024",
+                    "value": 2.19
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 0.45,
+                    "quickRatio": 0.23,
+                    "cashRatio": 0.06
+                },
+                "profitability": {
+                    "roe": 156.74,
+                    "roa": 20.99,
+                    "npm": 9.59,
+                    "gpm": 47.58
+                },
+                "leverage": {
+                    "der": 6.47,
+                    "dar": 0.87
+                },
+                "activity": {
+                    "assetTurnover": 2.19
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 0.55,
+                    "quickRatio": 0.34,
+                    "cashRatio": 0.09
+                },
+                "profitability": {
+                    "roe": 141.99,
+                    "roa": 28.81,
+                    "npm": 12.43,
+                    "gpm": 49.71
+                },
+                "leverage": {
+                    "der": 3.93,
+                    "dar": 0.8
+                },
+                "activity": {
+                    "assetTurnover": 2.32
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 0.61,
+                    "quickRatio": 0.4,
+                    "cashRatio": 0.04
+                },
+                "profitability": {
+                    "roe": 134.21,
+                    "roa": 29.29,
+                    "npm": 13.02,
+                    "gpm": 46.25
+                },
+                "leverage": {
+                    "der": 3.58,
+                    "dar": 0.78
+                },
+                "activity": {
+                    "assetTurnover": 2.25
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 0.61,
+                    "quickRatio": 0.42,
+                    "cashRatio": 0.03
+                },
+                "profitability": {
+                    "roe": 133.25,
+                    "roa": 30.2,
+                    "npm": 14.56,
+                    "gpm": 49.63
+                },
+                "leverage": {
+                    "der": 3.41,
+                    "dar": 0.77
+                },
+                "activity": {
+                    "assetTurnover": 2.07
+                }
+            }
+        }
+    },
+    "ASII.JK": {
+        "ticker": "ASII.JK",
+        "name": "Astra International Tbk",
+        "sector": "Conglomerate",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 1.33,
+                "quickRatio": 1.04,
+                "cashRatio": 0.36
+            },
+            "profitability": {
+                "roe": 15.97,
+                "roa": 7.2,
+                "npm": 10.29,
+                "gpm": 22.23
+            },
+            "leverage": {
+                "der": 0.94,
+                "dar": 0.43
+            },
+            "activity": {
+                "assetTurnover": 0.7
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.54
+                },
+                {
+                    "period": "2022",
+                    "value": 1.51
+                },
+                {
+                    "period": "2023",
+                    "value": 1.33
+                },
+                {
+                    "period": "2024",
+                    "value": 1.33
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.33
+                },
+                {
+                    "period": "2022",
+                    "value": 1.24
+                },
+                {
+                    "period": "2023",
+                    "value": 1.02
+                },
+                {
+                    "period": "2024",
+                    "value": 1.04
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.62
+                },
+                {
+                    "period": "2022",
+                    "value": 0.51
+                },
+                {
+                    "period": "2023",
+                    "value": 0.33
+                },
+                {
+                    "period": "2024",
+                    "value": 0.36
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 11.74
+                },
+                {
+                    "period": "2022",
+                    "value": 15.06
+                },
+                {
+                    "period": "2023",
+                    "value": 17.04
+                },
+                {
+                    "period": "2024",
+                    "value": 15.97
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 5.5
+                },
+                {
+                    "period": "2022",
+                    "value": 7.0
+                },
+                {
+                    "period": "2023",
+                    "value": 7.6
+                },
+                {
+                    "period": "2024",
+                    "value": 7.2
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 8.65
+                },
+                {
+                    "period": "2022",
+                    "value": 9.6
+                },
+                {
+                    "period": "2023",
+                    "value": 10.69
+                },
+                {
+                    "period": "2024",
+                    "value": 10.29
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 21.86
+                },
+                {
+                    "period": "2022",
+                    "value": 23.26
+                },
+                {
+                    "period": "2023",
+                    "value": 23.16
+                },
+                {
+                    "period": "2024",
+                    "value": 22.23
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.88
+                },
+                {
+                    "period": "2022",
+                    "value": 0.88
+                },
+                {
+                    "period": "2023",
+                    "value": 0.98
+                },
+                {
+                    "period": "2024",
+                    "value": 0.94
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.41
+                },
+                {
+                    "period": "2022",
+                    "value": 0.41
+                },
+                {
+                    "period": "2023",
+                    "value": 0.44
+                },
+                {
+                    "period": "2024",
+                    "value": 0.43
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.64
+                },
+                {
+                    "period": "2022",
+                    "value": 0.73
+                },
+                {
+                    "period": "2023",
+                    "value": 0.71
+                },
+                {
+                    "period": "2024",
+                    "value": 0.7
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 1.33,
+                    "quickRatio": 1.04,
+                    "cashRatio": 0.36
+                },
+                "profitability": {
+                    "roe": 15.97,
+                    "roa": 7.2,
+                    "npm": 10.29,
+                    "gpm": 22.23
+                },
+                "leverage": {
+                    "der": 0.94,
+                    "dar": 0.43
+                },
+                "activity": {
+                    "assetTurnover": 0.7
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 1.33,
+                    "quickRatio": 1.02,
+                    "cashRatio": 0.33
+                },
+                "profitability": {
+                    "roe": 17.04,
+                    "roa": 7.6,
+                    "npm": 10.69,
+                    "gpm": 23.16
+                },
+                "leverage": {
+                    "der": 0.98,
+                    "dar": 0.44
+                },
+                "activity": {
+                    "assetTurnover": 0.71
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 1.51,
+                    "quickRatio": 1.24,
+                    "cashRatio": 0.51
+                },
+                "profitability": {
+                    "roe": 15.06,
+                    "roa": 7.0,
+                    "npm": 9.6,
+                    "gpm": 23.26
+                },
+                "leverage": {
+                    "der": 0.88,
+                    "dar": 0.41
+                },
+                "activity": {
+                    "assetTurnover": 0.73
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 1.54,
+                    "quickRatio": 1.33,
+                    "cashRatio": 0.62
+                },
+                "profitability": {
+                    "roe": 11.74,
+                    "roa": 5.5,
+                    "npm": 8.65,
+                    "gpm": 21.86
+                },
+                "leverage": {
+                    "der": 0.88,
+                    "dar": 0.41
+                },
+                "activity": {
+                    "assetTurnover": 0.64
+                }
+            }
+        }
+    },
+    "INDF.JK": {
+        "ticker": "INDF.JK",
+        "name": "Indofood Sukses Makmur Tbk",
+        "sector": "Food & Beverages",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 2.15,
+                "quickRatio": 1.64,
+                "cashRatio": 1.04
+            },
+            "profitability": {
+                "roe": 13.27,
+                "roa": 4.28,
+                "npm": 7.46,
+                "gpm": 34.66
+            },
+            "leverage": {
+                "der": 1.42,
+                "dar": 0.46
+            },
+            "activity": {
+                "assetTurnover": 0.57
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.34
+                },
+                {
+                    "period": "2022",
+                    "value": 1.79
+                },
+                {
+                    "period": "2023",
+                    "value": 1.92
+                },
+                {
+                    "period": "2024",
+                    "value": 2.15
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.01
+                },
+                {
+                    "period": "2022",
+                    "value": 1.22
+                },
+                {
+                    "period": "2023",
+                    "value": 1.43
+                },
+                {
+                    "period": "2024",
+                    "value": 1.64
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.73
+                },
+                {
+                    "period": "2022",
+                    "value": 0.84
+                },
+                {
+                    "period": "2023",
+                    "value": 0.87
+                },
+                {
+                    "period": "2024",
+                    "value": 1.04
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 15.79
+                },
+                {
+                    "period": "2022",
+                    "value": 11.81
+                },
+                {
+                    "period": "2023",
+                    "value": 13.76
+                },
+                {
+                    "period": "2024",
+                    "value": 13.27
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 4.27
+                },
+                {
+                    "period": "2022",
+                    "value": 3.52
+                },
+                {
+                    "period": "2023",
+                    "value": 4.37
+                },
+                {
+                    "period": "2024",
+                    "value": 4.28
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 7.71
+                },
+                {
+                    "period": "2022",
+                    "value": 5.74
+                },
+                {
+                    "period": "2023",
+                    "value": 7.29
+                },
+                {
+                    "period": "2024",
+                    "value": 7.46
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 32.8
+                },
+                {
+                    "period": "2022",
+                    "value": 30.65
+                },
+                {
+                    "period": "2023",
+                    "value": 32.27
+                },
+                {
+                    "period": "2024",
+                    "value": 34.66
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 1.9
+                },
+                {
+                    "period": "2022",
+                    "value": 1.61
+                },
+                {
+                    "period": "2023",
+                    "value": 1.45
+                },
+                {
+                    "period": "2024",
+                    "value": 1.42
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.51
+                },
+                {
+                    "period": "2022",
+                    "value": 0.48
+                },
+                {
+                    "period": "2023",
+                    "value": 0.46
+                },
+                {
+                    "period": "2024",
+                    "value": 0.46
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.55
+                },
+                {
+                    "period": "2022",
+                    "value": 0.61
+                },
+                {
+                    "period": "2023",
+                    "value": 0.6
+                },
+                {
+                    "period": "2024",
+                    "value": 0.57
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 2.15,
+                    "quickRatio": 1.64,
+                    "cashRatio": 1.04
+                },
+                "profitability": {
+                    "roe": 13.27,
+                    "roa": 4.28,
+                    "npm": 7.46,
+                    "gpm": 34.66
+                },
+                "leverage": {
+                    "der": 1.42,
+                    "dar": 0.46
+                },
+                "activity": {
+                    "assetTurnover": 0.57
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 1.92,
+                    "quickRatio": 1.43,
+                    "cashRatio": 0.87
+                },
+                "profitability": {
+                    "roe": 13.76,
+                    "roa": 4.37,
+                    "npm": 7.29,
+                    "gpm": 32.27
+                },
+                "leverage": {
+                    "der": 1.45,
+                    "dar": 0.46
+                },
+                "activity": {
+                    "assetTurnover": 0.6
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 1.79,
+                    "quickRatio": 1.22,
+                    "cashRatio": 0.84
+                },
+                "profitability": {
+                    "roe": 11.81,
+                    "roa": 3.52,
+                    "npm": 5.74,
+                    "gpm": 30.65
+                },
+                "leverage": {
+                    "der": 1.61,
+                    "dar": 0.48
+                },
+                "activity": {
+                    "assetTurnover": 0.61
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 1.34,
+                    "quickRatio": 1.01,
+                    "cashRatio": 0.73
+                },
+                "profitability": {
+                    "roe": 15.79,
+                    "roa": 4.27,
+                    "npm": 7.71,
+                    "gpm": 32.8
+                },
+                "leverage": {
+                    "der": 1.9,
+                    "dar": 0.51
+                },
+                "activity": {
+                    "assetTurnover": 0.55
+                }
+            }
+        }
+    },
+    "KLBF.JK": {
+        "ticker": "KLBF.JK",
+        "name": "Kalbe Farma Tbk",
+        "sector": "Pharmaceuticals",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 4.11,
+                "quickRatio": 2.55,
+                "cashRatio": 1.13
+            },
+            "profitability": {
+                "roe": 14.22,
+                "roa": 11.01,
+                "npm": 9.93,
+                "gpm": 39.71
+            },
+            "leverage": {
+                "der": 0.21,
+                "dar": 0.16
+            },
+            "activity": {
+                "assetTurnover": 1.11
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 4.45
+                },
+                {
+                    "period": "2022",
+                    "value": 3.77
+                },
+                {
+                    "period": "2023",
+                    "value": 4.91
+                },
+                {
+                    "period": "2024",
+                    "value": 4.11
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 3.01
+                },
+                {
+                    "period": "2022",
+                    "value": 2.19
+                },
+                {
+                    "period": "2023",
+                    "value": 2.81
+                },
+                {
+                    "period": "2024",
+                    "value": 2.55
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.76
+                },
+                {
+                    "period": "2022",
+                    "value": 0.89
+                },
+                {
+                    "period": "2023",
+                    "value": 1.0
+                },
+                {
+                    "period": "2024",
+                    "value": 1.13
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 16.26
+                },
+                {
+                    "period": "2022",
+                    "value": 16.59
+                },
+                {
+                    "period": "2023",
+                    "value": 12.92
+                },
+                {
+                    "period": "2024",
+                    "value": 14.22
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 12.4
+                },
+                {
+                    "period": "2022",
+                    "value": 12.42
+                },
+                {
+                    "period": "2023",
+                    "value": 10.23
+                },
+                {
+                    "period": "2024",
+                    "value": 11.01
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 12.12
+                },
+                {
+                    "period": "2022",
+                    "value": 11.69
+                },
+                {
+                    "period": "2023",
+                    "value": 9.09
+                },
+                {
+                    "period": "2024",
+                    "value": 9.93
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 42.97
+                },
+                {
+                    "period": "2022",
+                    "value": 40.45
+                },
+                {
+                    "period": "2023",
+                    "value": 38.83
+                },
+                {
+                    "period": "2024",
+                    "value": 39.71
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.22
+                },
+                {
+                    "period": "2022",
+                    "value": 0.25
+                },
+                {
+                    "period": "2023",
+                    "value": 0.18
+                },
+                {
+                    "period": "2024",
+                    "value": 0.21
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.17
+                },
+                {
+                    "period": "2022",
+                    "value": 0.19
+                },
+                {
+                    "period": "2023",
+                    "value": 0.15
+                },
+                {
+                    "period": "2024",
+                    "value": 0.16
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 1.02
+                },
+                {
+                    "period": "2022",
+                    "value": 1.06
+                },
+                {
+                    "period": "2023",
+                    "value": 1.13
+                },
+                {
+                    "period": "2024",
+                    "value": 1.11
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 4.11,
+                    "quickRatio": 2.55,
+                    "cashRatio": 1.13
+                },
+                "profitability": {
+                    "roe": 14.22,
+                    "roa": 11.01,
+                    "npm": 9.93,
+                    "gpm": 39.71
+                },
+                "leverage": {
+                    "der": 0.21,
+                    "dar": 0.16
+                },
+                "activity": {
+                    "assetTurnover": 1.11
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 4.91,
+                    "quickRatio": 2.81,
+                    "cashRatio": 1.0
+                },
+                "profitability": {
+                    "roe": 12.92,
+                    "roa": 10.23,
+                    "npm": 9.09,
+                    "gpm": 38.83
+                },
+                "leverage": {
+                    "der": 0.18,
+                    "dar": 0.15
+                },
+                "activity": {
+                    "assetTurnover": 1.13
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 3.77,
+                    "quickRatio": 2.19,
+                    "cashRatio": 0.89
+                },
+                "profitability": {
+                    "roe": 16.59,
+                    "roa": 12.42,
+                    "npm": 11.69,
+                    "gpm": 40.45
+                },
+                "leverage": {
+                    "der": 0.25,
+                    "dar": 0.19
+                },
+                "activity": {
+                    "assetTurnover": 1.06
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 4.45,
+                    "quickRatio": 3.01,
+                    "cashRatio": 1.76
+                },
+                "profitability": {
+                    "roe": 16.26,
+                    "roa": 12.4,
+                    "npm": 12.12,
+                    "gpm": 42.97
+                },
+                "leverage": {
+                    "der": 0.22,
+                    "dar": 0.17
+                },
+                "activity": {
+                    "assetTurnover": 1.02
+                }
+            }
+        }
+    },
+    "ICBP.JK": {
+        "ticker": "ICBP.JK",
+        "name": "Indofood CBP Sukses Makmur Tbk",
+        "sector": "Food & Beverages",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 4.09,
+                "quickRatio": 3.44,
+                "cashRatio": 2.32
+            },
+            "profitability": {
+                "roe": 15.66,
+                "roa": 5.62,
+                "npm": 9.75,
+                "gpm": 37.04
+            },
+            "leverage": {
+                "der": 1.3,
+                "dar": 0.47
+            },
+            "activity": {
+                "assetTurnover": 0.58
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.8
+                },
+                {
+                    "period": "2022",
+                    "value": 3.1
+                },
+                {
+                    "period": "2023",
+                    "value": 3.51
+                },
+                {
+                    "period": "2024",
+                    "value": 4.09
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.49
+                },
+                {
+                    "period": "2022",
+                    "value": 2.39
+                },
+                {
+                    "period": "2023",
+                    "value": 2.91
+                },
+                {
+                    "period": "2024",
+                    "value": 3.44
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.08
+                },
+                {
+                    "period": "2022",
+                    "value": 1.57
+                },
+                {
+                    "period": "2023",
+                    "value": 1.85
+                },
+                {
+                    "period": "2024",
+                    "value": 2.32
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 18.77
+                },
+                {
+                    "period": "2022",
+                    "value": 12.56
+                },
+                {
+                    "period": "2023",
+                    "value": 17.15
+                },
+                {
+                    "period": "2024",
+                    "value": 15.66
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 5.42
+                },
+                {
+                    "period": "2022",
+                    "value": 3.98
+                },
+                {
+                    "period": "2023",
+                    "value": 5.86
+                },
+                {
+                    "period": "2024",
+                    "value": 5.62
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 11.27
+                },
+                {
+                    "period": "2022",
+                    "value": 7.08
+                },
+                {
+                    "period": "2023",
+                    "value": 10.29
+                },
+                {
+                    "period": "2024",
+                    "value": 9.75
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 35.71
+                },
+                {
+                    "period": "2022",
+                    "value": 33.63
+                },
+                {
+                    "period": "2023",
+                    "value": 37.0
+                },
+                {
+                    "period": "2024",
+                    "value": 37.04
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 1.85
+                },
+                {
+                    "period": "2022",
+                    "value": 1.58
+                },
+                {
+                    "period": "2023",
+                    "value": 1.4
+                },
+                {
+                    "period": "2024",
+                    "value": 1.3
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.53
+                },
+                {
+                    "period": "2022",
+                    "value": 0.5
+                },
+                {
+                    "period": "2023",
+                    "value": 0.48
+                },
+                {
+                    "period": "2024",
+                    "value": 0.47
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.48
+                },
+                {
+                    "period": "2022",
+                    "value": 0.56
+                },
+                {
+                    "period": "2023",
+                    "value": 0.57
+                },
+                {
+                    "period": "2024",
+                    "value": 0.58
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 4.09,
+                    "quickRatio": 3.44,
+                    "cashRatio": 2.32
+                },
+                "profitability": {
+                    "roe": 15.66,
+                    "roa": 5.62,
+                    "npm": 9.75,
+                    "gpm": 37.04
+                },
+                "leverage": {
+                    "der": 1.3,
+                    "dar": 0.47
+                },
+                "activity": {
+                    "assetTurnover": 0.58
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 3.51,
+                    "quickRatio": 2.91,
+                    "cashRatio": 1.85
+                },
+                "profitability": {
+                    "roe": 17.15,
+                    "roa": 5.86,
+                    "npm": 10.29,
+                    "gpm": 37.0
+                },
+                "leverage": {
+                    "der": 1.4,
+                    "dar": 0.48
+                },
+                "activity": {
+                    "assetTurnover": 0.57
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 3.1,
+                    "quickRatio": 2.39,
+                    "cashRatio": 1.57
+                },
+                "profitability": {
+                    "roe": 12.56,
+                    "roa": 3.98,
+                    "npm": 7.08,
+                    "gpm": 33.63
+                },
+                "leverage": {
+                    "der": 1.58,
+                    "dar": 0.5
+                },
+                "activity": {
+                    "assetTurnover": 0.56
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 1.8,
+                    "quickRatio": 1.49,
+                    "cashRatio": 1.08
+                },
+                "profitability": {
+                    "roe": 18.77,
+                    "roa": 5.42,
+                    "npm": 11.27,
+                    "gpm": 35.71
+                },
+                "leverage": {
+                    "der": 1.85,
+                    "dar": 0.53
+                },
+                "activity": {
+                    "assetTurnover": 0.48
+                }
+            }
+        }
+    },
+    "GGRM.JK": {
+        "ticker": "GGRM.JK",
+        "name": "Gudang Garam Tbk",
+        "sector": "Tobacco",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 2.29,
+                "quickRatio": 0.46,
+                "cashRatio": 0.18
+            },
+            "profitability": {
+                "roe": 1.58,
+                "roa": 1.15,
+                "npm": 0.99,
+                "gpm": 9.51
+            },
+            "leverage": {
+                "der": 0.37,
+                "dar": 0.27
+            },
+            "activity": {
+                "assetTurnover": 1.16
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 2.09
+                },
+                {
+                    "period": "2022",
+                    "value": 1.9
+                },
+                {
+                    "period": "2023",
+                    "value": 1.83
+                },
+                {
+                    "period": "2024",
+                    "value": 2.29
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.67
+                },
+                {
+                    "period": "2022",
+                    "value": 0.47
+                },
+                {
+                    "period": "2023",
+                    "value": 0.44
+                },
+                {
+                    "period": "2024",
+                    "value": 0.46
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.15
+                },
+                {
+                    "period": "2022",
+                    "value": 0.15
+                },
+                {
+                    "period": "2023",
+                    "value": 0.14
+                },
+                {
+                    "period": "2024",
+                    "value": 0.18
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 9.45
+                },
+                {
+                    "period": "2022",
+                    "value": 4.8
+                },
+                {
+                    "period": "2023",
+                    "value": 8.75
+                },
+                {
+                    "period": "2024",
+                    "value": 1.58
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 6.23
+                },
+                {
+                    "period": "2022",
+                    "value": 3.14
+                },
+                {
+                    "period": "2023",
+                    "value": 5.76
+                },
+                {
+                    "period": "2024",
+                    "value": 1.15
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 4.49
+                },
+                {
+                    "period": "2022",
+                    "value": 2.23
+                },
+                {
+                    "period": "2023",
+                    "value": 4.48
+                },
+                {
+                    "period": "2024",
+                    "value": 0.99
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 11.43
+                },
+                {
+                    "period": "2022",
+                    "value": 8.9
+                },
+                {
+                    "period": "2023",
+                    "value": 12.27
+                },
+                {
+                    "period": "2024",
+                    "value": 9.51
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.52
+                },
+                {
+                    "period": "2022",
+                    "value": 0.53
+                },
+                {
+                    "period": "2023",
+                    "value": 0.52
+                },
+                {
+                    "period": "2024",
+                    "value": 0.37
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.34
+                },
+                {
+                    "period": "2022",
+                    "value": 0.35
+                },
+                {
+                    "period": "2023",
+                    "value": 0.34
+                },
+                {
+                    "period": "2024",
+                    "value": 0.27
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 1.39
+                },
+                {
+                    "period": "2022",
+                    "value": 1.41
+                },
+                {
+                    "period": "2023",
+                    "value": 1.29
+                },
+                {
+                    "period": "2024",
+                    "value": 1.16
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 2.29,
+                    "quickRatio": 0.46,
+                    "cashRatio": 0.18
+                },
+                "profitability": {
+                    "roe": 1.58,
+                    "roa": 1.15,
+                    "npm": 0.99,
+                    "gpm": 9.51
+                },
+                "leverage": {
+                    "der": 0.37,
+                    "dar": 0.27
+                },
+                "activity": {
+                    "assetTurnover": 1.16
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 1.83,
+                    "quickRatio": 0.44,
+                    "cashRatio": 0.14
+                },
+                "profitability": {
+                    "roe": 8.75,
+                    "roa": 5.76,
+                    "npm": 4.48,
+                    "gpm": 12.27
+                },
+                "leverage": {
+                    "der": 0.52,
+                    "dar": 0.34
+                },
+                "activity": {
+                    "assetTurnover": 1.29
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 1.9,
+                    "quickRatio": 0.47,
+                    "cashRatio": 0.15
+                },
+                "profitability": {
+                    "roe": 4.8,
+                    "roa": 3.14,
+                    "npm": 2.23,
+                    "gpm": 8.9
+                },
+                "leverage": {
+                    "der": 0.53,
+                    "dar": 0.35
+                },
+                "activity": {
+                    "assetTurnover": 1.41
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 2.09,
+                    "quickRatio": 0.67,
+                    "cashRatio": 0.15
+                },
+                "profitability": {
+                    "roe": 9.45,
+                    "roa": 6.23,
+                    "npm": 4.49,
+                    "gpm": 11.43
+                },
+                "leverage": {
+                    "der": 0.52,
+                    "dar": 0.34
+                },
+                "activity": {
+                    "assetTurnover": 1.39
+                }
+            }
+        }
+    },
+    "ADRO.JK": {
+        "ticker": "ADRO.JK",
+        "name": "Adaro Energy Tbk",
+        "sector": "Mining",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 4.02,
+                "quickRatio": 3.87,
+                "cashRatio": 2.17
+            },
+            "profitability": {
+                "roe": 9.36,
+                "roa": 6.88,
+                "npm": 22.19,
+                "gpm": 42.05
+            },
+            "leverage": {
+                "der": 0.27,
+                "dar": 0.2
+            },
+            "activity": {
+                "assetTurnover": 0.31
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 2.08
+                },
+                {
+                    "period": "2022",
+                    "value": 2.17
+                },
+                {
+                    "period": "2023",
+                    "value": 2.01
+                },
+                {
+                    "period": "2024",
+                    "value": 4.02
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.99
+                },
+                {
+                    "period": "2022",
+                    "value": 2.09
+                },
+                {
+                    "period": "2023",
+                    "value": 1.93
+                },
+                {
+                    "period": "2024",
+                    "value": 3.87
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.33
+                },
+                {
+                    "period": "2022",
+                    "value": 1.66
+                },
+                {
+                    "period": "2023",
+                    "value": 1.55
+                },
+                {
+                    "period": "2024",
+                    "value": 2.17
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 22.57
+                },
+                {
+                    "period": "2022",
+                    "value": 41.38
+                },
+                {
+                    "period": "2023",
+                    "value": 6.49
+                },
+                {
+                    "period": "2024",
+                    "value": 9.36
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 12.3
+                },
+                {
+                    "period": "2022",
+                    "value": 23.12
+                },
+                {
+                    "period": "2023",
+                    "value": 4.2
+                },
+                {
+                    "period": "2024",
+                    "value": 6.88
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 23.38
+                },
+                {
+                    "period": "2022",
+                    "value": 30.77
+                },
+                {
+                    "period": "2023",
+                    "value": 20.6
+                },
+                {
+                    "period": "2024",
+                    "value": 22.19
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 44.32
+                },
+                {
+                    "period": "2022",
+                    "value": 57.43
+                },
+                {
+                    "period": "2023",
+                    "value": 40.63
+                },
+                {
+                    "period": "2024",
+                    "value": 42.05
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.76
+                },
+                {
+                    "period": "2022",
+                    "value": 0.71
+                },
+                {
+                    "period": "2023",
+                    "value": 0.45
+                },
+                {
+                    "period": "2024",
+                    "value": 0.27
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.41
+                },
+                {
+                    "period": "2022",
+                    "value": 0.39
+                },
+                {
+                    "period": "2023",
+                    "value": 0.29
+                },
+                {
+                    "period": "2024",
+                    "value": 0.2
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.53
+                },
+                {
+                    "period": "2022",
+                    "value": 0.75
+                },
+                {
+                    "period": "2023",
+                    "value": 0.2
+                },
+                {
+                    "period": "2024",
+                    "value": 0.31
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 4.02,
+                    "quickRatio": 3.87,
+                    "cashRatio": 2.17
+                },
+                "profitability": {
+                    "roe": 9.36,
+                    "roa": 6.88,
+                    "npm": 22.19,
+                    "gpm": 42.05
+                },
+                "leverage": {
+                    "der": 0.27,
+                    "dar": 0.2
+                },
+                "activity": {
+                    "assetTurnover": 0.31
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 2.01,
+                    "quickRatio": 1.93,
+                    "cashRatio": 1.55
+                },
+                "profitability": {
+                    "roe": 6.49,
+                    "roa": 4.2,
+                    "npm": 20.6,
+                    "gpm": 40.63
+                },
+                "leverage": {
+                    "der": 0.45,
+                    "dar": 0.29
+                },
+                "activity": {
+                    "assetTurnover": 0.2
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 2.17,
+                    "quickRatio": 2.09,
+                    "cashRatio": 1.66
+                },
+                "profitability": {
+                    "roe": 41.38,
+                    "roa": 23.12,
+                    "npm": 30.77,
+                    "gpm": 57.43
+                },
+                "leverage": {
+                    "der": 0.71,
+                    "dar": 0.39
+                },
+                "activity": {
+                    "assetTurnover": 0.75
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 2.08,
+                    "quickRatio": 1.99,
+                    "cashRatio": 1.33
+                },
+                "profitability": {
+                    "roe": 22.57,
+                    "roa": 12.3,
+                    "npm": 23.38,
+                    "gpm": 44.32
+                },
+                "leverage": {
+                    "der": 0.76,
+                    "dar": 0.41
+                },
+                "activity": {
+                    "assetTurnover": 0.53
+                }
+            }
+        }
+    },
+    "ANTM.JK": {
+        "ticker": "ANTM.JK",
+        "name": "Aneka Tambang Tbk",
+        "sector": "Mining",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 1.84,
+                "quickRatio": 1.22,
+                "cashRatio": 0.49
+            },
+            "profitability": {
+                "roe": 11.59,
+                "roa": 8.19,
+                "npm": 5.27,
+                "gpm": 9.39
+            },
+            "leverage": {
+                "der": 0.39,
+                "dar": 0.28
+            },
+            "activity": {
+                "assetTurnover": 1.55
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.79
+                },
+                {
+                    "period": "2022",
+                    "value": 1.96
+                },
+                {
+                    "period": "2023",
+                    "value": 2.34
+                },
+                {
+                    "period": "2024",
+                    "value": 1.84
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.31
+                },
+                {
+                    "period": "2022",
+                    "value": 1.47
+                },
+                {
+                    "period": "2023",
+                    "value": 1.93
+                },
+                {
+                    "period": "2024",
+                    "value": 1.22
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.77
+                },
+                {
+                    "period": "2022",
+                    "value": 0.75
+                },
+                {
+                    "period": "2023",
+                    "value": 1.07
+                },
+                {
+                    "period": "2024",
+                    "value": 0.49
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 8.93
+                },
+                {
+                    "period": "2022",
+                    "value": 16.11
+                },
+                {
+                    "period": "2023",
+                    "value": 10.04
+                },
+                {
+                    "period": "2024",
+                    "value": 11.59
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 5.66
+                },
+                {
+                    "period": "2022",
+                    "value": 11.36
+                },
+                {
+                    "period": "2023",
+                    "value": 7.18
+                },
+                {
+                    "period": "2024",
+                    "value": 8.19
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 4.84
+                },
+                {
+                    "period": "2022",
+                    "value": 8.32
+                },
+                {
+                    "period": "2023",
+                    "value": 7.5
+                },
+                {
+                    "period": "2024",
+                    "value": 5.27
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 16.54
+                },
+                {
+                    "period": "2022",
+                    "value": 17.88
+                },
+                {
+                    "period": "2023",
+                    "value": 15.38
+                },
+                {
+                    "period": "2024",
+                    "value": 9.39
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.58
+                },
+                {
+                    "period": "2022",
+                    "value": 0.42
+                },
+                {
+                    "period": "2023",
+                    "value": 0.38
+                },
+                {
+                    "period": "2024",
+                    "value": 0.39
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.37
+                },
+                {
+                    "period": "2022",
+                    "value": 0.3
+                },
+                {
+                    "period": "2023",
+                    "value": 0.27
+                },
+                {
+                    "period": "2024",
+                    "value": 0.28
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 1.17
+                },
+                {
+                    "period": "2022",
+                    "value": 1.37
+                },
+                {
+                    "period": "2023",
+                    "value": 0.96
+                },
+                {
+                    "period": "2024",
+                    "value": 1.55
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 1.84,
+                    "quickRatio": 1.22,
+                    "cashRatio": 0.49
+                },
+                "profitability": {
+                    "roe": 11.59,
+                    "roa": 8.19,
+                    "npm": 5.27,
+                    "gpm": 9.39
+                },
+                "leverage": {
+                    "der": 0.39,
+                    "dar": 0.28
+                },
+                "activity": {
+                    "assetTurnover": 1.55
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 2.34,
+                    "quickRatio": 1.93,
+                    "cashRatio": 1.07
+                },
+                "profitability": {
+                    "roe": 10.04,
+                    "roa": 7.18,
+                    "npm": 7.5,
+                    "gpm": 15.38
+                },
+                "leverage": {
+                    "der": 0.38,
+                    "dar": 0.27
+                },
+                "activity": {
+                    "assetTurnover": 0.96
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 1.96,
+                    "quickRatio": 1.47,
+                    "cashRatio": 0.75
+                },
+                "profitability": {
+                    "roe": 16.11,
+                    "roa": 11.36,
+                    "npm": 8.32,
+                    "gpm": 17.88
+                },
+                "leverage": {
+                    "der": 0.42,
+                    "dar": 0.3
+                },
+                "activity": {
+                    "assetTurnover": 1.37
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 1.79,
+                    "quickRatio": 1.31,
+                    "cashRatio": 0.77
+                },
+                "profitability": {
+                    "roe": 8.93,
+                    "roa": 5.66,
+                    "npm": 4.84,
+                    "gpm": 16.54
+                },
+                "leverage": {
+                    "der": 0.58,
+                    "dar": 0.37
+                },
+                "activity": {
+                    "assetTurnover": 1.17
+                }
+            }
+        }
+    },
+    "INCO.JK": {
+        "ticker": "INCO.JK",
+        "name": "Vale Indonesia Tbk",
+        "sector": "Mining",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 3.81,
+                "quickRatio": 3.25,
+                "cashRatio": 2.56
+            },
+            "profitability": {
+                "roe": 2.11,
+                "roa": 1.82,
+                "npm": 6.08,
+                "gpm": 11.39
+            },
+            "leverage": {
+                "der": 0.16,
+                "dar": 0.14
+            },
+            "activity": {
+                "assetTurnover": 0.3
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 4.97
+                },
+                {
+                    "period": "2022",
+                    "value": 5.65
+                },
+                {
+                    "period": "2023",
+                    "value": 4.77
+                },
+                {
+                    "period": "2024",
+                    "value": 3.81
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 4.0
+                },
+                {
+                    "period": "2022",
+                    "value": 4.76
+                },
+                {
+                    "period": "2023",
+                    "value": 4.05
+                },
+                {
+                    "period": "2024",
+                    "value": 3.25
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 3.02
+                },
+                {
+                    "period": "2022",
+                    "value": 3.62
+                },
+                {
+                    "period": "2023",
+                    "value": 3.22
+                },
+                {
+                    "period": "2024",
+                    "value": 2.56
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 7.7
+                },
+                {
+                    "period": "2022",
+                    "value": 8.51
+                },
+                {
+                    "period": "2023",
+                    "value": 10.7
+                },
+                {
+                    "period": "2024",
+                    "value": 2.11
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 6.7
+                },
+                {
+                    "period": "2022",
+                    "value": 7.54
+                },
+                {
+                    "period": "2023",
+                    "value": 9.38
+                },
+                {
+                    "period": "2024",
+                    "value": 1.82
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 17.39
+                },
+                {
+                    "period": "2022",
+                    "value": 16.99
+                },
+                {
+                    "period": "2023",
+                    "value": 22.26
+                },
+                {
+                    "period": "2024",
+                    "value": 6.08
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 26.11
+                },
+                {
+                    "period": "2022",
+                    "value": 26.59
+                },
+                {
+                    "period": "2023",
+                    "value": 28.16
+                },
+                {
+                    "period": "2024",
+                    "value": 11.39
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 0.15
+                },
+                {
+                    "period": "2022",
+                    "value": 0.13
+                },
+                {
+                    "period": "2023",
+                    "value": 0.14
+                },
+                {
+                    "period": "2024",
+                    "value": 0.16
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.13
+                },
+                {
+                    "period": "2022",
+                    "value": 0.11
+                },
+                {
+                    "period": "2023",
+                    "value": 0.12
+                },
+                {
+                    "period": "2024",
+                    "value": 0.14
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.39
+                },
+                {
+                    "period": "2022",
+                    "value": 0.44
+                },
+                {
+                    "period": "2023",
+                    "value": 0.42
+                },
+                {
+                    "period": "2024",
+                    "value": 0.3
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 3.81,
+                    "quickRatio": 3.25,
+                    "cashRatio": 2.56
+                },
+                "profitability": {
+                    "roe": 2.11,
+                    "roa": 1.82,
+                    "npm": 6.08,
+                    "gpm": 11.39
+                },
+                "leverage": {
+                    "der": 0.16,
+                    "dar": 0.14
+                },
+                "activity": {
+                    "assetTurnover": 0.3
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 4.77,
+                    "quickRatio": 4.05,
+                    "cashRatio": 3.22
+                },
+                "profitability": {
+                    "roe": 10.7,
+                    "roa": 9.38,
+                    "npm": 22.26,
+                    "gpm": 28.16
+                },
+                "leverage": {
+                    "der": 0.14,
+                    "dar": 0.12
+                },
+                "activity": {
+                    "assetTurnover": 0.42
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 5.65,
+                    "quickRatio": 4.76,
+                    "cashRatio": 3.62
+                },
+                "profitability": {
+                    "roe": 8.51,
+                    "roa": 7.54,
+                    "npm": 16.99,
+                    "gpm": 26.59
+                },
+                "leverage": {
+                    "der": 0.13,
+                    "dar": 0.11
+                },
+                "activity": {
+                    "assetTurnover": 0.44
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 4.97,
+                    "quickRatio": 4.0,
+                    "cashRatio": 3.02
+                },
+                "profitability": {
+                    "roe": 7.7,
+                    "roa": 6.7,
+                    "npm": 17.39,
+                    "gpm": 26.11
+                },
+                "leverage": {
+                    "der": 0.15,
+                    "dar": 0.13
+                },
+                "activity": {
+                    "assetTurnover": 0.39
+                }
+            }
+        }
+    },
+    "SMGR.JK": {
+        "ticker": "SMGR.JK",
+        "name": "Semen Indonesia Tbk",
+        "sector": "Cement",
+        "latest_period": "2024",
+        "ratios": {
+            "liquidity": {
+                "currentRatio": 1.25,
+                "quickRatio": 0.85,
+                "cashRatio": 0.28
+            },
+            "profitability": {
+                "roe": 1.64,
+                "roa": 0.93,
+                "npm": 1.99,
+                "gpm": 21.92
+            },
+            "leverage": {
+                "der": 0.66,
+                "dar": 0.37
+            },
+            "activity": {
+                "assetTurnover": 0.47
+            }
+        },
+        "trends": {
+            "liquidity_currentRatio": [
+                {
+                    "period": "2021",
+                    "value": 1.11
+                },
+                {
+                    "period": "2022",
+                    "value": 1.45
+                },
+                {
+                    "period": "2023",
+                    "value": 1.23
+                },
+                {
+                    "period": "2024",
+                    "value": 1.25
+                }
+            ],
+            "liquidity_quickRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.77
+                },
+                {
+                    "period": "2022",
+                    "value": 1.02
+                },
+                {
+                    "period": "2023",
+                    "value": 0.91
+                },
+                {
+                    "period": "2024",
+                    "value": 0.85
+                }
+            ],
+            "liquidity_cashRatio": [
+                {
+                    "period": "2021",
+                    "value": 0.2
+                },
+                {
+                    "period": "2022",
+                    "value": 0.46
+                },
+                {
+                    "period": "2023",
+                    "value": 0.43
+                },
+                {
+                    "period": "2024",
+                    "value": 0.28
+                }
+            ],
+            "profitability_roe": [
+                {
+                    "period": "2021",
+                    "value": 5.31
+                },
+                {
+                    "period": "2022",
+                    "value": 5.53
+                },
+                {
+                    "period": "2023",
+                    "value": 5.02
+                },
+                {
+                    "period": "2024",
+                    "value": 1.64
+                }
+            ],
+            "profitability_roa": [
+                {
+                    "period": "2021",
+                    "value": 2.5
+                },
+                {
+                    "period": "2022",
+                    "value": 2.85
+                },
+                {
+                    "period": "2023",
+                    "value": 2.65
+                },
+                {
+                    "period": "2024",
+                    "value": 0.93
+                }
+            ],
+            "profitability_npm": [
+                {
+                    "period": "2021",
+                    "value": 5.58
+                },
+                {
+                    "period": "2022",
+                    "value": 6.5
+                },
+                {
+                    "period": "2023",
+                    "value": 5.62
+                },
+                {
+                    "period": "2024",
+                    "value": 1.99
+                }
+            ],
+            "profitability_gpm": [
+                {
+                    "period": "2021",
+                    "value": 31.95
+                },
+                {
+                    "period": "2022",
+                    "value": 29.35
+                },
+                {
+                    "period": "2023",
+                    "value": 26.33
+                },
+                {
+                    "period": "2024",
+                    "value": 21.92
+                }
+            ],
+            "leverage_der": [
+                {
+                    "period": "2021",
+                    "value": 1.01
+                },
+                {
+                    "period": "2022",
+                    "value": 0.84
+                },
+                {
+                    "period": "2023",
+                    "value": 0.79
+                },
+                {
+                    "period": "2024",
+                    "value": 0.66
+                }
+            ],
+            "leverage_dar": [
+                {
+                    "period": "2021",
+                    "value": 0.48
+                },
+                {
+                    "period": "2022",
+                    "value": 0.43
+                },
+                {
+                    "period": "2023",
+                    "value": 0.42
+                },
+                {
+                    "period": "2024",
+                    "value": 0.37
+                }
+            ],
+            "activity_assetTurnover": [
+                {
+                    "period": "2021",
+                    "value": 0.45
+                },
+                {
+                    "period": "2022",
+                    "value": 0.44
+                },
+                {
+                    "period": "2023",
+                    "value": 0.47
+                },
+                {
+                    "period": "2024",
+                    "value": 0.47
+                }
+            ]
+        },
+        "all_periods": {
+            "2024": {
+                "liquidity": {
+                    "currentRatio": 1.25,
+                    "quickRatio": 0.85,
+                    "cashRatio": 0.28
+                },
+                "profitability": {
+                    "roe": 1.64,
+                    "roa": 0.93,
+                    "npm": 1.99,
+                    "gpm": 21.92
+                },
+                "leverage": {
+                    "der": 0.66,
+                    "dar": 0.37
+                },
+                "activity": {
+                    "assetTurnover": 0.47
+                }
+            },
+            "2023": {
+                "liquidity": {
+                    "currentRatio": 1.23,
+                    "quickRatio": 0.91,
+                    "cashRatio": 0.43
+                },
+                "profitability": {
+                    "roe": 5.02,
+                    "roa": 2.65,
+                    "npm": 5.62,
+                    "gpm": 26.33
+                },
+                "leverage": {
+                    "der": 0.79,
+                    "dar": 0.42
+                },
+                "activity": {
+                    "assetTurnover": 0.47
+                }
+            },
+            "2022": {
+                "liquidity": {
+                    "currentRatio": 1.45,
+                    "quickRatio": 1.02,
+                    "cashRatio": 0.46
+                },
+                "profitability": {
+                    "roe": 5.53,
+                    "roa": 2.85,
+                    "npm": 6.5,
+                    "gpm": 29.35
+                },
+                "leverage": {
+                    "der": 0.84,
+                    "dar": 0.43
+                },
+                "activity": {
+                    "assetTurnover": 0.44
+                }
+            },
+            "2021": {
+                "liquidity": {
+                    "currentRatio": 1.11,
+                    "quickRatio": 0.77,
+                    "cashRatio": 0.2
+                },
+                "profitability": {
+                    "roe": 5.31,
+                    "roa": 2.5,
+                    "npm": 5.58,
+                    "gpm": 31.95
+                },
+                "leverage": {
+                    "der": 1.01,
+                    "dar": 0.48
+                },
+                "activity": {
+                    "assetTurnover": 0.45
+                }
+            }
+        }
+    }
+}
